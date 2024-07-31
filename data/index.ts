@@ -89,7 +89,7 @@ export const navItems = [
       id: 2,
       title: "Coffee HomePage - Landing Page Project",
       des: "コーヒーと食事に関するランディングページプロジェクト。HTML＆CSSとJavaScriptを使用して、落ち着いた雰囲気で、詳細なメニューがあり、訪問者が簡単にアクセスできるウェブページをデザインした。",
-      img: "/HomePage-Background.png",
+      img: "./HomePage-Background.png",
       // iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       iconLists: ["./CSS3logo.svg", "./html-5-logo.svg", "./JavaScriptlogo2.svg"],
       link: "https://github.com/hoantelseai/HomePage_PJ.git",
