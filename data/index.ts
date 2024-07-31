@@ -82,7 +82,7 @@ export const navItems = [
       des: "体格指数（Body Mass Index, BMI）を計算し、健康状態を評価するためのプロジェクト。JavaScriptとHTML＆CSSでユーザーが身長と体重を入力すると、BMIを計算し、それぞれの健康に関するアドバイスが表示される。",
       img: "/BMI-Background.png",
       // iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      iconLists: ["/CSS3_logo.svg", "/html-5-logo.svg", "/JavaScript_logo_2.svg"],
+      iconLists: ["/CSS3logo.svg", "/html-5-logo.svg", "/JavaScriptlogo2.svg"],
       link: "https://github.com/hoantelseai/BMI-Project.git",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       des: "コーヒーと食事に関するランディングページプロジェクト。HTML＆CSSとJavaScriptを使用して、落ち着いた雰囲気で、詳細なメニューがあり、訪問者が簡単にアクセスできるウェブページをデザインした。",
       img: "/HomePage-Background.png",
       // iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      iconLists: ["/CSS3_logo.svg", "/html-5-logo.svg", "/JavaScript_logo_2.svg"],
+      iconLists: ["/CSS3logo.svg", "/html-5-logo.svg", "/JavaScriptlogo2.svg"],
       link: "https://github.com/hoantelseai/HomePage_PJ.git",
     },
     {
